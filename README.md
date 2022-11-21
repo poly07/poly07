@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Polyana
+- 👀 Eu estou interessada em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente
+- 📫 Meu email para contato é polyana.domingues@escola.pr.gov.br
